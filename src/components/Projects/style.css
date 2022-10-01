@@ -1,0 +1,10 @@
+a.project:link, a.project:visited, a.project:active {
+	text-decoration:underline;
+	color:blue;
+	font-size: 1.5em;
+}
+a.project:hover{
+	text-decoration:underline;
+	color:red;
+	font-size: 1.5em;
+}

@@ -1,0 +1,71 @@
+{
+  "profile": {
+    "img": "https://via.placeholder.com/200x200",
+    "nome": "Vitor",
+    "sobrenome": "Brandao",
+    "cidade": "Porto",
+    "estado": "Portugal",
+    "contato": "»351 930 611 356",
+    "email": "vitor.bxr@gmail.com",
+    "biografia": "Olá me chamo Vitor, tenho 37 anos, Sou formado em Sistemas de Informaçao e Egenharia Mecatronica.\nEstou concluindo minha terceira graduaçao em Analise e Desenvolvimento de Sistemas",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Estafeta",
+        "empresa": "Autonomo",
+        "periodo": "Novembro 2021 - Atual",
+        "atividades": "Servico de Courier Profissional"
+      },
+      {
+        "id": 2,
+        "cargo": "Corretor de Sebo",
+        "empresa": "Fariminas",
+        "periodo": "Janeiro 2018 - Novembro 2021",
+        "atividades": "Compra e venda de sebo bovino e oleo usado para a Petrobras"
+      },
+      {
+        "id": 3,
+        "cargo": "Desenvolvedor Full Stack",
+        "empresa": "PAC Soluçoes em Informatica",
+        "periodo": "Fevereiro 2002 - Janeiro 2018",
+        "atividades": "Atuei na análise e elaboração de sistemas para diversos clientes."
+      },
+      {
+        "id": 4,
+        "cargo": "Professor",
+        "empresa": "Senac MG",
+        "periodo": "Fevereiro 2001 - 2009",
+        "atividades": "Professor dos cursos tecnicos de informatica"
+      }
+    ],
+    "linguagens": "HTML, ASP, .NET, C++, Phyton, JavaScript, CSS",
+    "db": "MySQL, SQL Server",
+    "idiomas": "Portugues, Ingles, Espanhol",
+    "projetos": [
+      {
+        "id": 1,
+        "imgp": "https://via.placeholder.com/50x50",
+        "titulo": "Desenvolvimentos de WEBSite",
+        "empresa": "RAEM Produtos Injetados",
+        "data": "01/05/2005",
+        "endereco": "http://www.raem.com.br"
+      },
+      {
+        "id": 2,
+        "imgp": "https://via.placeholder.com/50x50",
+        "titulo": "Desenvolvimento de WEBSite em ASP",
+        "empresa": "Antares Motos",
+        "data": "12/03/2010",
+        "endereco": "http://www.antaresmotos.com.br"
+      },
+      {
+        "id": 3,
+        "imgp": "https://via.placeholder.com/50x50",
+        "titulo": "Sistema de noticas online",
+        "empresa": "Jornal Gazeta Norte Mineira",
+        "data": "04/12/2012",
+        "endereco": "http://www.gazetanm.com.br"
+      }
+    ]
+  }
+}
